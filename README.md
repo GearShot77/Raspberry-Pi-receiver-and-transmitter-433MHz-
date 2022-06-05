@@ -3,6 +3,7 @@
 2. pip3 install rpi-rf
 
 Пример:
+
 Прием:
  python3 recieve.py -g 20 (raspberry pi pin)
 Отправка:
