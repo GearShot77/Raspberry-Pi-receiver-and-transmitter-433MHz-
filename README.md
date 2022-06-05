@@ -1,6 +1,6 @@
 Установка:
-1.https://github.com/GearShot77/Raspberry-Pi-receiver-and-transmitter-433MHz-
-2.pip3 install rpi-rf
+1. git clone https://github.com/GearShot77/Raspberry-Pi-receiver-and-transmitter-433MHz-
+2. pip3 install rpi-rf
 
 Пример:
 Прием:
